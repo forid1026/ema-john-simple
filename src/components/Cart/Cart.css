@@ -1,0 +1,12 @@
+.orderTotal{
+    color: goldenrod;
+}
+.order-btn{
+    background-color: goldenrod;
+    border-radius: 3px;
+    width: 150px;
+    height: 20px;
+    border-color: #a88734;
+    color: #111;
+    cursor: pointer;
+}
